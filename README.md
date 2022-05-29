@@ -36,5 +36,5 @@ communication.
 - Tasks are executed in the desired order. 
 - The robot will finish the trial by pushing the red button.
 ## Submission videos
-- The 5 minute video containing  a video of your team explaining your solution to the task board and a BYOD demo of your robot platform no longer than 5min can be found [here](https://cloud.fhws.de/s/XMiiNnsXjnTxfKD)
+- The 5 minute video containing a video of our team explaining the solution to the taskboard and a BYOD demo of our robot platform can be found [here](https://cloud.fhws.de/s/XMiiNnsXjnTxfKD)
 - The 10 minute video showing our solution doing the Taskboard challenge 5 times can be found [here](https://cloud.fhws.de/s/nXWnQFLCZbzyewY)
