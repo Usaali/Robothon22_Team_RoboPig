@@ -1,5 +1,6 @@
 # Robothon22_Team_RoboPig
 This repository is the submission of team RoboPig of FHWS for the Robothon 2022 competition
+For a more detailed overview, please take a look at [the pdf version](Submission for Robothon 2022.pdf)
 
 ## Hardware dependencies
 - UR5e robot arm
