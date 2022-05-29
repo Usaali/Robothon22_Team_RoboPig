@@ -2,8 +2,20 @@
 This repository is the submission of team RoboPig of FHWS for the Robothon 2022 competition
 
 ## Hardware dependencies
+- UR5e robot arm
+- Robotiq Hand E Gripper with IO coupling
+- 3D printed gripper jaws
+- Azure Kinect camera
 
 ## Software dependencies
+- RoboDK
+- Python
+  - OpenCV
+  - numpy
+  - matplotlib
+  - pyK4A
+  - ur_rtde
+  - robodk
 
 ## Quick start guide
 ### 1. Start RoboDK. 
